@@ -1,0 +1,9 @@
+origin,destination,miles
+Boston,Worcester,47.5
+Boston,Providence,50.5
+Worcester,Springfield,52.0
+Springfield,Hartford,26.0
+Worcester,Hartford,65.5
+Providence,Hartford,86.0
+Providence,New Haven,104.5
+Hartford,New Haven,40.0
